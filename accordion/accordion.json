@@ -1,0 +1,60 @@
+{
+    "order": 2,
+    "type": "accordion",
+    "heading_bg": "#fffff",
+    "heading_padding": "10px 10px",
+    "heading": {
+        "text": "EVIDENCE",
+        "font_size": "18px",
+        "font_color": "#86919b",
+        "font_style": "bold"
+    },
+    "icon": {
+        "url": "http://woocation.online/vaccination.png",
+        "ico_width": "24px",
+        "ico_height": "22px"
+    },
+    "section_bg": "rgba(134,145,155,.05)",
+    "section_data": [
+        {
+            "order": 1,
+            "type": "info-text",
+            "text_section": {
+                "width": "75%",
+                "text": "Legal alcohol percentage",
+                "font_color": "#69737b",
+                "font_size": "15px",
+                "font_style": "bold"
+            },
+            "value_section": {
+                "width": "25%",
+                "align_items": "right",
+                "value_type": "text",
+                "text": "0.3%",
+                "font_color": "#ff7575",
+                "font_size": "15px",
+                "font_style": ""
+            }
+        },
+        {
+            "order": 2,
+            "type": "info-text",
+            "text_section": {
+                "width": "75%",
+                "text": "Legal alcohol percentage",
+                "font_color": "#69737b",
+                "font_size": "15px",
+                "font_style": "bold"
+            },
+            "value_section": {
+                "width": "25%",
+                "align_items": "right",
+                "value_type": "text",
+                "text": "0.3%",
+                "font_color": "#ff7575",
+                "font_size": "15px",
+                "font_style": ""
+            }
+        }
+    ]
+}
