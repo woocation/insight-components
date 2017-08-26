@@ -1,0 +1,166 @@
+{
+    "order": 2,
+    "type": "tabs",
+    "font_color": "#69737b",
+    "font_size": "15px",
+    "font_style": "",
+    "selected_color": "#ff7575",
+    "selected_size": "16px",
+    "selected_font_style": "bold",
+    "bg_color": "rgba(134,145,155,.05)",
+    "tab_bg_color": "#ffffff",
+    "tab_data": [
+        {
+            "id": 22,
+            "displayName": "Good Aliens",
+            "value": "good",
+            "section_data": [
+                {
+                    "order": 1,
+                    "type": "image",
+                    "image_url": "https://s-media-cache-ak0.pinimg.com/originals/e9/d8/d2/e9d8d2cf4d5e7f6c35f1c2b7e0e7678c.jpg",
+                    "image_height": "180px",
+                    "overlay": {
+                        "position": "bottom",
+                        "bg_color": "#ffffff",
+                        "layout_type": "complex",
+                        "layout": {
+                            "sections": [
+                                {
+                                    "order": 1,
+                                    "type": "text",
+                                    "width": "80%",
+                                    "heading": {
+                                        "text": "Alien Friendly Score",
+                                        "font_size": "15px",
+                                        "font_color": "#000000",
+                                        "font_style": "bold"
+                                    },
+                                    "body": {
+                                        "text": "Friendly to humans",
+                                        "font_size": "12px",
+                                        "font_color": "#000000",
+                                        "font_style": "none"
+                                    }
+                                },
+                                {
+                                    "order": 2,
+                                    "type": "score",
+                                    "width": "20%",
+                                    "score": {
+                                        "text": "5",
+                                        "font_size": "36px",
+                                        "font_color": "#000000",
+                                        "font_style": "bold"
+                                    },
+                                    "max_score": {
+                                        "text": "/5",
+                                        "font_size": "19px",
+                                        "font_color": "#000000",
+                                        "font_style": ""
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "order": 2,
+                    "type": "info-text",
+                    "text_section": {
+                        "width": "75%",
+                        "text": "Our Recommendation",
+                        "font_color": "#69737b",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                    },
+                    "value_section": {
+                        "width": "25%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "Friendly",
+                        "font_color": "#00FF00",
+                        "font_size": "18px",
+                        "font_style": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "displayName": "Bad Aliens",
+            "value": "bad",
+            "section_data": [
+                {
+                    "order": 1,
+                    "type": "image",
+                    "image_url": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjU4NTM4M15BMl5BanBnXkFtZTgwNzczMDY5MTI@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg",
+                    "image_height": "180px",
+                    "overlay": {
+                        "position": "bottom",
+                        "bg_color": "#ffffff",
+                        "layout_type": "complex",
+                        "layout": {
+                            "sections": [
+                                {
+                                    "order": 1,
+                                    "type": "text",
+                                    "width": "80%",
+                                    "heading": {
+                                        "text": "Alien Friendly Score",
+                                        "font_size": "15px",
+                                        "font_color": "#000000",
+                                        "font_style": "bold"
+                                    },
+                                    "body": {
+                                        "text": "Kill and eat humans",
+                                        "font_size": "12px",
+                                        "font_color": "#000000",
+                                        "font_style": "none"
+                                    }
+                                },
+                                {
+                                    "order": 2,
+                                    "type": "score",
+                                    "width": "20%",
+                                    "score": {
+                                        "text": "1",
+                                        "font_size": "36px",
+                                        "font_color": "#000000",
+                                        "font_style": "bold"
+                                    },
+                                    "max_score": {
+                                        "text": "/5",
+                                        "font_size": "19px",
+                                        "font_color": "#000000",
+                                        "font_style": ""
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "order": 2,
+                    "type": "info-text",
+                    "text_section": {
+                        "width": "75%",
+                        "text": "Our Recommendation",
+                        "font_color": "#69737b",
+                        "font_size": "15px",
+                        "font_style": "bold"
+                    },
+                    "value_section": {
+                        "width": "25%",
+                        "align_items": "right",
+                        "value_type": "text",
+                        "text": "Enemy",
+                        "font_color": "#FF0000",
+                        "font_size": "18px",
+                        "font_style": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
