@@ -1,0 +1,21 @@
+{
+    "order": 4,
+    "type": "image",
+    "image_url": "http://woocation.online/driving-main.png",
+    "image_height": "180px",
+    "image_bg":"#1ed3e0",
+    "ico_width":"100px",
+    "ico_height":"100px",
+    "overlay": {
+        "position": "bottom",
+        "bg_color": "none",
+        "layout_type": "simple",
+        "layout": {
+            "text": "Driving Direction : Left",
+            "font_size": "16px",
+            "font_color": "#ffffff",
+            "text_align": "center",
+            "font_style": "bold"
+        }
+    }
+}
