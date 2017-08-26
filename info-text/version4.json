@@ -1,0 +1,45 @@
+{
+    "order": 8,
+    "type": "info-text",
+    "padding": "5px 15px",
+    "bg_color": "rgba(134,145,155,.05)",
+    "width":"100%",
+    "text_section": {
+        "width": "75%",
+        "text": "Items to do",
+        "font_color": "#86919bb",
+        "font_size": "14px",
+        "font_style": ""
+    },
+    "value_section": {
+        "width": "40%",
+        "align_items": "right",
+        "value_type": "popup",
+        "text": "VIEW",
+        "font_color": "#33adff",
+        "font_size": "14px",
+        "font_style": "",
+        "popup_bg_color": "rgba(134,145,155,.05)",
+        "menu_items_padding": "2px 15px",
+        "content": [
+            {
+                "text": "This is ITEM 1",
+                "font_color": "#86919bb",
+                "font_size": "14px",
+                "font_style": "",
+                "icon": "http://woocation.online/network-type.png",
+                "ico_width": "25px",
+                "ico_height": "25px"
+            },
+            {
+                "text": "This is ITEM 2",
+                "font_color": "#FF0000",
+                "font_size": "14px",
+                "font_style": "",
+                "icon": "http://woocation.online/network-type.png",
+                "ico_width": "25px",
+                "ico_height": "25px"
+            }
+        ]
+    }
+}

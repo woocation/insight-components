@@ -1,0 +1,33 @@
+{
+    "order": 7,
+    "type": "info-text",
+    "padding": "5px 15px",
+    "bg_color": "rgba(134,145,155,.05)",
+    "width":"100%",
+    "text_section": {
+        "width": "40%",
+        "text": "Reference",
+        "font_color": "#86919bb",
+        "font_size": "14px",
+        "font_style": ""
+    },
+    "value_section": {
+        "width": "60%",
+        "align_items": "right",
+        "value_type": "icon-with-tooltip",
+        "content": [
+            {
+                "icon": "http://woocation.online/Vector_Borne.png",
+                "ico_width": "30px",
+                "ico_height": "30px",
+                "tooltip_text": "Vector Borne"
+            },
+            {
+                "icon": "http://woocation.online/Virus_Source.png",
+                "ico_width": "30px",
+                "ico_height": "30px",
+                "tooltip_text": "Virus Source"
+            }
+        ]
+    }
+}
