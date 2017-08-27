@@ -1,0 +1,31 @@
+{
+    "order": 6,
+    "type": "info-text",
+    "padding": "5px 15px",
+    "bg_color": "rgba(134,145,155,.05)",
+    "width": "100%",
+    "text_section": {
+        "width": "75%",
+        "text": "See driving video for india",
+        "font_color": "#69737b",
+        "font_size": "15px",
+        "font_style": ""
+    },
+    "value_section": {
+        "width": "25%",
+        "align_items": "right",
+        "value_type": "score",
+        "score": {
+            "text": "7",
+            "font_color": "#33d5b1",
+            "font_size": "36px",
+            "font_style": ""
+        },
+        "total": {
+            "text": "/10",
+            "font_color": "#86919b",
+            "font_size": "15px",
+            "font_style": ""
+        }
+    }
+}

@@ -29,3 +29,7 @@ Version5 - Plain text with icons and their tooltips
 Version6 - Optional icon and description
 
 ![Version6](version6.png?raw=true "Version6")
+
+Version7 - Text with score
+
+![Version7](version7.png?raw=true "Version7")
